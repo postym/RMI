@@ -2,7 +2,7 @@ import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.util.Scanner;
 
-public class CustomerClient {
+public class Client2 {
     public static void main(String[] args) {
         try {
             // Get the registry
